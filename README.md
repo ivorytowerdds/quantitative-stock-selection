@@ -1,4 +1,4 @@
-# quantitative stock selection
+# Quantitative Stock Selection
 **Description**: 
 ---------------------
 The code is a general one used to back-test factors, including: 
